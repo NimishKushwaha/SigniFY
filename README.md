@@ -43,7 +43,8 @@ Contributions to SigniFY are encouraged and appreciated! Whether you're a develo
 **3. Welcome Page:**
   ![Screenshot 2024-02![Screenshot 2024-02-12 193412](https://github.com/NimishKushwaha/SigniFY/assets/128953212/07ea05e8-1610-4212-8b8d-cfa59533d2c2)
 -12 193257](https://github.com/NimishKushwaha/SigniFY/assets/128953212/c8fef2ae-11f6-4ff2-a2b5-8961e62ea3f3)
-![Screenshot 2024-02-12 193412](https://github.com/NimishKushwaha/SigniFY/assets/128953212/6b795796-6aa5-4098-b8f7-dcdb61a891f7)
+![Screenshot 2024-02-12 205959](https://github.com/NimishKushwaha/SigniFY/assets/128953212/bbc4dc14-6996-4ced-8ced-d6b801110502)
+
 
 **4. Sign Detection:**
 
