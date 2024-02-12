@@ -33,6 +33,13 @@ Contributions to SigniFY are encouraged and appreciated! Whether you're a develo
   
 - **Accessibility Advocacy:** Spread awareness about accessibility and advocate for inclusivity in technology.
 
+## Sample Output
+**1. Registrati![Screenshot 2024-02-12 192535](https://github.com/NimishKushwaha/SigniFY/assets/128953212/71fd86d9-d831-4149-81d7-7ef3a9703a4b)
+on Page**
+
+
+  
+
 ## Contact
 
 For questions or inquiries about SigniFY, please reach out to the project maintainers at [kushwahanimish@gmail.com](mailto:kushwahanimish@gmail.com), [bikrantpandit07@gmail.com](mailto:bikrantpandit07@gmail.com).
