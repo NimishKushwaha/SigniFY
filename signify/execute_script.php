@@ -5,8 +5,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["startButton"])) {
 
     // Filter out TensorFlow-related lines
     $filteredOutput = filterOutTensorFlowLines($output);
-
-    echo "<pre>$filteredOutput</pre>";
     echo "Thank you";
 } else {
     echo "Invalid request.";
