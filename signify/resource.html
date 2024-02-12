@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ASL Alphabet Quiz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        .navbar {
+            background-color: #333;
+        }
+        .container {
+            margin-top: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-family: 'Times New Roman';
+            text-align: center;
+        }
+        .search-bar {
+            text-align: center;
+            margin: 20px 0;
+        }
+        #alphabetSearch {
+            font-size: 18px;
+            padding: 10px;
+            width: 300px;
+        }
+        #searchButton {
+            font-size: 14px;
+            padding: 10px;
+        }
+        .alphabet-images {
+            text-align: center;
+        }
+        .alphabet-images img {
+            max-width: 150px; 
+            margin: 10px; 
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <!-- Add your navigation content here if needed -->
+    </nav>
+
+    <div class="container mt-4">
+        <hr>
+        <h1>Resources</h1>
+        <div class="search-bar">
+            <input type="text" id="alphabetSearch" placeholder="Search for an alphabet">
+            <button onclick="searchAlphabet()" id="searchButton">Search</button>
+        </div>
+
+        <div class="alphabet-images">
+            <img src="Image1/A.png" alt="ASL A">
+            <img src="Image1/B.png" alt="ASL B">
+            <img src="Image1/C.png" alt="ASL C">
+            <img src="Image1/D.png" alt="ASL D">
+            <img src="Image1/E.png" alt="ASL E">
+            <img src="Image1/F.png" alt="ASL F">
+            <img src="Image1/G.png" alt="ASL G">
+            <img src="Image1/H.png" alt="ASL H">
+            <img src="Image1/I.png" alt="ASL I">
+            <img src="Image1/J.png" alt="ASL J">
+            <img src="Image1/K.png" alt="ASL K">
+            <img src="Image1/L.png" alt="ASL L">
+            <img src="Image1/M.png" alt="ASL M">
+            <img src="Image1/N.png" alt="ASL N">
+            <img src="Image1/O.png" alt="ASL O">
+            <img src="Image1/P.png" alt="ASL P">
+            <img src="Image1/Q.png" alt="ASL Q">
+            <img src="Image1/R.png" alt="ASL R">
+            <img src="Image1/S.png" alt="ASL S">
+            <img src="Image1/T.png" alt="ASL T">
+            <img src="Image1/U.png" alt="ASL U">
+            <img src="Image1/V.png" alt="ASL V">
+            <img src="Image1/W.png" alt="ASL W">
+            <img src="Image1/X.png" alt="ASL X">
+            <img src="Image1/Y.png" alt="ASL Y">
+            <img src="Image1/Z.png" alt="ASL Z">
+        </div>
+    </div>
+    <script>
+        function searchAlphabet() {
+            var searchText = document.getElementById("alphabetSearch").value.toLowerCase();
+
+            var alphabetImages = document.querySelectorAll(".alphabet-images img");
+    
+            alphabetImages.forEach(function (image) {
+
+                var altText = image.alt.toLowerCase();
+                if (altText.includes(searchText)) {
+                    image.style.display = "block";
+                } else {
+                    image.style.display = "none";
+                }
+            });
+        }
+    </script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html>
