@@ -45,8 +45,10 @@ Contributions to SigniFY are encouraged and appreciated! Whether you're a develo
 -12 193257](https://github.com/NimishKushwaha/SigniFY/assets/128953212/c8fef2ae-11f6-4ff2-a2b5-8961e62ea3f3)
 ![Screenshot 2024-02-12 205959](https://github.com/NimishKushwaha/SigniFY/assets/128953212/bbc4dc14-6996-4ced-8ced-d6b801110502)
 
-
 **4. Sign Detection:**
+![Output](https://github.com/NimishKushwaha/SigniFY/assets/128953212/871be0f2-4ff0-49ea-85e9-fd2bb0ccc374)
+![output c](https://github.com/NimishKushwaha/SigniFY/assets/128953212/d0e11660-74c6-45ca-b4d5-3bb417d29ae0)
+![output1](https://github.com/NimishKushwaha/SigniFY/assets/128953212/df58af7e-43f1-4214-b2e4-90b567287635)
 
 **5. PDF To Speech:**
 ![Screenshot 2024-02-12 193434](https://github.com/NimishKushwaha/SigniFY/assets/128953212/7c3dfa0d-5172-455b-9428-6987b987766d)
@@ -54,6 +56,12 @@ Contributions to SigniFY are encouraged and appreciated! Whether you're a develo
 **6. Notes Translation:**
 ![Screenshot 2024-02-12 193509](https://github.com/NimishKushwaha/SigniFY/assets/128953212/8870ec46-be93-4f25-b6c5-714b6bbe5b6a)
 ![Screenshot 2024-02-12 193522](https://github.com/NimishKushwaha/SigniFY/assets/128953212/588c0286-70ce-41d2-a4f3-a31b5df22715)
+
+**7. Resources for Sign Detection:**
+![Screenshot 2024-02-12 211129](https://github.com/NimishKushwaha/SigniFY/assets/128953212/438069d3-cf93-4e43-8275-a3cd7166383d)
+
+**8. Quiz:**
+![Screenshot 2024-02-12 211457](https://github.com/NimishKushwaha/SigniFY/assets/128953212/b65a5d35-cbf1-4401-8750-238fc2633ebf)
 
 
 ## Contact
