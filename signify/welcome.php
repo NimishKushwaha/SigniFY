@@ -84,7 +84,6 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
                                     Can a book make the blind view the most beautiful sights and alleviate the most pain? 
                                     Shall we take a look at one now?</p>
                                     <form action="execute_script.php" method="post">
-                                    <button type="submit" name="startButton1">Start Port !</button>
                                         <a href="http://127.0.0.1:5001/" target="_blank">
                                             <button type="button" name="startButton1">Start Listening !</button>
                                         </a>
