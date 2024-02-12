@@ -1,0 +1,98 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Sign Language Learning</title>
+    <style>
+        /* Reset some default styles */
+        body, h1, h2, p, label, input, select, button {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            text-align: center;
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+        }
+
+        main {
+            max-width: 400px;
+            margin: 20px auto; /* Added margin for spacing */
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        #login {
+            text-align: center;
+        }
+
+        #userType, #username, #password {
+            display: block;
+            margin: 10px auto;
+            padding: 10px;
+            width: 100%;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            font-size: 16px;
+        }
+
+        button {
+            display: block;
+            margin: 10px auto;
+            padding: 10px 20px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            border-radius: 3px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Signify</h1>
+    </header>
+    
+    <main>
+        <section id="login">
+            <h2>Login</h2>
+            <form action="process_login.php" method="POST">
+                <label for="userType">I am:</label>
+                <select id="userType" name="userType">
+                    <option value="student">Student</option>
+                    <option value="admin">Admin</option>
+                </select>
+
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required>
+
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+
+                <button type="submit">Login</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Sign Language Learning</p>
+    </footer>
+</body>
+</html>

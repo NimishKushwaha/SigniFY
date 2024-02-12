@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Language Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
+        #output {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sign Language Dashboard</h1>
+    <button id="startButton">Start Sign Language App</button>
+    <div id="output"></div>
+
+    <script>
+        document.getElementById('startButton').addEventListener('click', function() {
+            fetch('/start_script')
+                .then(response => response.text())
+                .then(message => {
+                    document.getElementById('output').innerText = message;
+                })
+                .catch(error => console.error(error));
+        });
+    </script>
+</body>
+</html>
