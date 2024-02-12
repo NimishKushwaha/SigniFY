@@ -54,7 +54,7 @@ Contributions to SigniFY are encouraged and appreciated! Whether you're a develo
 ![Screenshot 2024-02-12 193434](https://github.com/NimishKushwaha/SigniFY/assets/128953212/7c3dfa0d-5172-455b-9428-6987b987766d)
 
 **6. Notes Translation:**
-![Screenshot 2024-02-12 193509](https://github.com/NimishKushwaha/SigniFY/assets/128953212/8870ec46-be93-4f25-b6c5-714b6bbe5b6a)
+![Screenshot 2024-02-12 212400](https://github.com/NimishKushwaha/SigniFY/assets/128953212/a33bff9a-5807-42cf-9cda-5c1b393203b5)
 ![Screenshot 2024-02-12 193522](https://github.com/NimishKushwaha/SigniFY/assets/128953212/588c0286-70ce-41d2-a4f3-a31b5df22715)
 
 **7. Resources for Sign Detection:**
