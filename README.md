@@ -65,13 +65,10 @@ Contributions to SigniFY are encouraged and appreciated! Whether you're a develo
 
 
 ## Contributors
-[![Contributors](https://img.shields.io/github/contributors/NimishKushwaha/SigniFY.svg)](https://github.com/NimishKushwaha/SigniFY/graphs/contributors)
 
-
-- Bikrant Pandit (@bikrant07)
-- Gungun Khaitan (@Gungunkhaitan)
-- Sandesh Varma (@luci-fier)
-
+- Bikrant Pandit <img src="https://github.com/johndoe.png" width="20" height="20"> ([johndoe](https://github.com/bikrant07))
+- Gungun Khaitan <img src="https://github.com/janesmith.png" width="20" height="20"> ([luci-fier](https://github.com/Gungunkhaitan))
+- Sandesh Varma <img src="https://github.com/janesmith.png" width="20" height="20"> ([luci-fier](https://github.com/luci-fier))
 
 
 ## Contact
