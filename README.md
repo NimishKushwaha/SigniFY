@@ -66,9 +66,9 @@ Contributions to SigniFY are encouraged and appreciated! Whether you're a develo
 
 ## Contributors
 
-- Bikrant Pandit <img src="https://github.com/bikrant07.png" width="20" height="20"> ([johndoe](https://github.com/bikrant07))
-- Gungun Khaitan <img src="https://github.com/Gungunkhaitan.png" width="20" height="20"> ([luci-fier](https://github.com/Gungunkhaitan))
-- Sandesh Varma <img src="https://github.com/luci-fier.png" width="20" height="20"> ([luci-fier](https://github.com/luci-fier))
+- <img src="https://github.com/bikrant07.png" width="20" height="20"> Bikrant Pandit ([johndoe](https://github.com/bikrant07))
+- <img src="https://github.com/Gungunkhaitan.png" width="20" height="20"> Gungun Khaitan ([luci-fier](https://github.com/Gungunkhaitan))
+- <img src="https://github.com/luci-fier.png" width="20" height="20"> Sandesh Varma ([luci-fier](https://github.com/luci-fier))
 
 
 ## Contact
