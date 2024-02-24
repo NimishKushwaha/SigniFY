@@ -68,6 +68,12 @@ Contributions to SigniFY are encouraged and appreciated! Whether you're a develo
 [![Contributors](https://img.shields.io/github/contributors/NimishKushwaha/SigniFY.svg)](https://github.com/NimishKushwaha/SigniFY/graphs/contributors)
 
 
+- Bikrant Pandit (@bikrant07)
+- Gungun Khaitan (@Gungunkhaitan)
+- Sandesh Varma (@luci-fier)
+
+
+
 ## Contact
 
 For questions or inquiries about SigniFY, please reach out to the project maintainers at [kushwahanimish@gmail.com](mailto:kushwahanimish@gmail.com), [bikrantpandit07@gmail.com](mailto:bikrantpandit07@gmail.com).
