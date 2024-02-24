@@ -66,10 +66,10 @@ Contributions to SigniFY are encouraged and appreciated! Whether you're a develo
 
 ## Contributors
 
-- <img src="https://github.com/NimishKushwaha.png" width="25" height="25"> Nimish Kushwaha ([NimishKushwaha](https://github.com/NimishKushwaha))
-- <img src="https://github.com/bikrant07.png" width="25" height="25"> Bikrant Pandit ([bikrant07](https://github.com/bikrant07))
-- <img src="https://github.com/Gungunkhaitan.png" width="25" height="25"> Gungun Khaitan ([Gungunkhaitan](https://github.com/Gungunkhaitan))
-- <img src="https://github.com/luci-fier.png" width="25" height="25"> Sandesh Varma ([luci-fier](https://github.com/luci-fier))
+- <img src="https://github.com/NimishKushwaha.png" width="25" height="25" border-radius="5"> Nimish Kushwaha ([NimishKushwaha](https://github.com/NimishKushwaha))
+- <img src="https://github.com/bikrant07.png" width="25" height="25" border-radius="5"> Bikrant Pandit ([bikrant07](https://github.com/bikrant07))
+- <img src="https://github.com/Gungunkhaitan.png" width="25" height="25" border-radius="5"> Gungun Khaitan ([Gungunkhaitan](https://github.com/Gungunkhaitan))
+- <img src="https://github.com/luci-fier.png" width="25" height="25" border-radius="5"> Sandesh Varma ([luci-fier](https://github.com/luci-fier))
 
 
 ## Contact
