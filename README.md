@@ -64,6 +64,10 @@ Contributions to SigniFY are encouraged and appreciated! Whether you're a develo
 ![Screenshot 2024-02-12 211457](https://github.com/NimishKushwaha/SigniFY/assets/128953212/b65a5d35-cbf1-4401-8750-238fc2633ebf)
 
 
+##Contributors
+[![Contributors](https://img.shields.io/github/contributors/NimishKushwaha/SigniFY.svg)](https://github.com/NimishKushwaha/SigniFY/graphs/contributors)
+
+
 ## Contact
 
 For questions or inquiries about SigniFY, please reach out to the project maintainers at [kushwahanimish@gmail.com](mailto:kushwahanimish@gmail.com), [bikrantpandit07@gmail.com](mailto:bikrantpandit07@gmail.com).
