@@ -35,9 +35,8 @@ def extract_keypoints(results):
 # Path for exported data, numpy arrays
 DATA_PATH = os.path.join('MP_Data') 
 
-actions = np.array(['A','B','C','D','E','F','G'])
+actions = np.array(['A','B','D','F'])
 
 no_sequences = 30
-
 sequence_length = 30
 
